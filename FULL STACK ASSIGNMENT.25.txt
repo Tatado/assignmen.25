@@ -1,0 +1,25 @@
+1.
+ he essential difference is the presence of the index: while the Numpy Array has an implicitly defined integer index used to access the values, 
+the Pandas Series has an explicitly defined index associated with the values.
+2.
+ ticker symbol change really means nothing t, the investor, in the grand scheme of things. The change doesn't do anything to markets or to the way  we execute trades.
+ Since everything is electronic, trading platform or broker will already update The portfolio to include the new ticker symbol.
+3.
+To set up a graph, label the x-axis, or horizontal axis, time. Label the vertical, or y-axis, price. This ensures that as we line graph moves from left to right,
+ it will represent rises (by moving up) and falls (by moving down) in the price of the stock over time.
+4.
+the legend displays information about the points that are currently hovered over or, if none are hovered over, about the last points shown on the plot.
+5.
+Truncate() function is used to truncate a Series or DataFrame before and after some index value. 
+This is a useful shorthand for boolean indexing based on index values above or below certain thresholds.
+6.
+The 180-day moving average is represented as a line on charts and represents the average price over the past 180days . The moving average can give traders a sense regarding whether the trend is up or down,
+ while also identifying potential support or resistance areas.
+7.
+Receive the pro forma invoice, the exporter's quote on the merchandise; negotiate if necessary.
+Open a letter of credit at your bank.
+Verify that the merchandise has been shipped.
+Receive documents from the exporter.
+See merchandise through customs.
+Collect your merchandise.
+
